@@ -8,7 +8,7 @@ An example on how to add an http gateway infront of a grpc server
 
 ## Usage
 
-1. cURL <http://localhost:8081/api/v1/{name}>
+1. cURL <http://localhost:8081/api/v1/{name}?message=...>
 
 ## Transcoding HTTP/JSON to gRPC
 
